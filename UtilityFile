@@ -1,0 +1,5 @@
+#Utility
+# This file will print the remainer from a number
+
+def my_num(x):
+	print ('Thank you for calling me')
